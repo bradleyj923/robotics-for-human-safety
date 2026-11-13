@@ -29,6 +29,25 @@ Brad's idea is to think beyond one aircraft: could schools, fire stations, polic
 - **Keep the whole response working.** Coordinate dispatch and flight permissions, retain on-site AED coverage, and design a handoff that does not pull the only rescuer away from CPR.
 - **Measure useful help, not impressive flight.** How much sooner are the pads attached? Can a frightened bystander find and use the equipment?
 
+### From equipment on a wall to a resource on a network
+
+Brad's analogy is the parked car: what if an asset waiting in one place could serve someone who needs it elsewhere? Applied to emergency equipment, the goal is not to keep every AED busy. A device waiting for an emergency is doing its job. The opportunity is to connect that readiness to a larger neighborhood without leaving its home site unprotected.
+
+**A building block already exists.** PulsePoint's National Emergency AED + Resource (NEAR) Registry connects resource locations with emergency communication centers and records access information. In participating communities, AED-needed alerts ask subscribed people to bring a registered device to a nearby emergency. These alerts use the AED's location, not the subscriber's personal location. That is a useful companion to the location-aware responder concept that inspired Brad, but it is not an automatic drone-launch service.
+
+**The question worth building around.** Could a 911 system match a confirmed incident location with the fastest appropriate, ready resource, then coordinate a person or an authorized drone delivery? The nearest pin on a map may not be the fastest usable AED. The system would need to know whether the cabinet is accessible, the device and aircraft are ready, the route is safe, and someone can receive the package. A dispatcher-supervised network could automate the matching while keeping emergency judgment and fallback arrangements clear.
+
+- **Technical readiness.** Design trustworthy status updates, secure dispatch commands, accurate delivery locations and a safe response to lost communications. Test the full chain from call to usable equipment, including failures, not just successful flights.
+- **Access and operating responsibility.** Who can release the equipment, who receives it, and who replaces used pads or restores the kit afterward? Plan for locked buildings, nighttime access, languages, disability access and overlapping emergencies. A dedicated community delivery AED may be better than borrowing a school's only unit.
+- **Policy and sustained funding.** Agree on ownership, medical oversight, aviation approvals, privacy, liability, staffing and maintenance before launch. Include communities with few resources, not only neighborhoods that can afford the hardware.
+
+The same design question could extend to bleeding-control kits or other first-aid supplies. NEAR already lists bleeding-control kits, epinephrine and naloxone alongside AEDs; that does not establish that any particular item is approved for drone delivery or appropriate for every caller. Each proposed payload needs its own clinical purpose, storage requirements, trained support and delivery plan. The student challenge: choose one community, one emergency need and one measurable improvement, then build a small simulation before proposing a fleet.
+
+- [PulsePoint: NEAR emergency-resource registry](https://www.pulsepoint.org/near-registry)
+  - Explore the existing information infrastructure for finding equipment, understanding access and notifying people. Ask what an authorized delivery layer would need to add.
+- [PulsePoint: 911-initiated AED-needed alerts](https://www.pulsepoint.org/aed-needed-alerts)
+  - See how responsible parties and approved subscribers can already help move a nearby AED toward an emergency.
+
 A further question is whether a future mobile robot could assist when no capable bystander is present. That adds harder tasks: reaching the patient, gaining access to the chest, placing pads and supporting safe clinical decisions. The studies linked here use human bystanders, not autonomous robotic treatment. For a young engineer, the invitation is to choose one missing step and ask how it could become safer, simpler or faster.
 
 **Explore the evidence**
