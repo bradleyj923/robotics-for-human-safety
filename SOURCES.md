@@ -1,6 +1,6 @@
 # Sources and editorial approach
 
-This public collection was prepared by Bradley Shogren with AI drafting and research assistance. Personal recollections are identified as such; technical examples link to original research, public agencies, creators or company announcements. Company announcements describe what the company reports, not independent proof of every performance claim.
+This collection is Bradley Shogren's exploration of robotics for human safety, grounded in his firsthand experiences, ideas and questions. AI was used as a research and drafting tool. Personal recollections are identified as such; technical examples link to original research, public agencies, creators or company announcements. Company announcements describe what the company reports, not independent proof of every performance claim.
 
 ## What the labels mean
 
