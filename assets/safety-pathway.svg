@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">From alert to assistance</title><desc id="desc">Five linked steps in human-safety robotics: alert, locate, navigate, assess, assist.</desc>
+<rect width="1200" height="420" rx="24" fill="#101f34"/>
+<text x="48" y="62" fill="#6fe1ca" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">ROBOTICS FOR HUMAN SAFETY</text>
+<text x="48" y="113" fill="white" font-family="Arial,sans-serif" font-size="36" font-weight="700">Better information. Safer decisions. Faster help.</text>
+<g font-family="Arial,sans-serif">
+<g transform="translate(48 157)"><rect width="205" height="156" rx="14" fill="#20364f"/><text x="20" y="39" fill="#6fe1ca" font-size="17">01</text><text x="20" y="76" fill="white" font-size="25" font-weight="700">ALERT</text><text x="20" y="112" fill="#d5e1ed" font-size="17">Something is wrong.</text></g>
+<g transform="translate(272 157)"><rect width="205" height="156" rx="14" fill="#20364f"/><text x="20" y="39" fill="#6fe1ca" font-size="17">02</text><text x="20" y="76" fill="white" font-size="25" font-weight="700">LOCATE</text><text x="20" y="112" fill="#d5e1ed" font-size="17">Where, exactly?</text></g>
+<g transform="translate(496 157)"><rect width="205" height="156" rx="14" fill="#20364f"/><text x="20" y="39" fill="#6fe1ca" font-size="17">03</text><text x="20" y="76" fill="white" font-size="25" font-weight="700">NAVIGATE</text><text x="20" y="112" fill="#d5e1ed" font-size="17">Which route works?</text></g>
+<g transform="translate(720 157)"><rect width="205" height="156" rx="14" fill="#20364f"/><text x="20" y="39" fill="#6fe1ca" font-size="17">04</text><text x="20" y="76" fill="white" font-size="25" font-weight="700">ASSESS</text><text x="20" y="112" fill="#d5e1ed" font-size="17">What is happening?</text></g>
+<g transform="translate(944 157)"><rect width="205" height="156" rx="14" fill="#087f78"/><text x="20" y="39" fill="#b1fff0" font-size="17">05</text><text x="20" y="76" fill="white" font-size="25" font-weight="700">ASSIST</text><text x="20" y="112" fill="white" font-size="17">Make help possible.</text></g>
+<text x="48" y="365" fill="#d5e1ed" font-size="21">Start with the human need. Build and test the smallest useful solution.</text>
+</g></svg>
