@@ -12,6 +12,10 @@ As a volunteer firefighter in suburban Minneapolis in the 1990s, Brad gave CPR d
 
 **CPR and defibrillation work together.** CPR helps keep blood flowing to the brain and heart. An AED analyzes the rhythm and advises or delivers a shock when appropriate; not every cardiac arrest has a shockable rhythm. Faster access matters, but it complements CPR and emergency medical care rather than replacing them. Follow 911 dispatcher and AED instructions, and do not interrupt CPR to go searching for a device when someone else can retrieve it.
 
+**The stakes behind the idea.** Not everyone gets a second chance. The AHA's 2025 guidelines report that only 10.5% of adults in the 2024 CARES out-of-hospital cardiac-arrest data survived to hospital discharge, roughly one in ten. That is a registry-wide outcome across participating systems, not an estimate for a particular person or a statistic about surviving a first heart attack. It is a reason to strengthen every link in the response, not to give up. [AHA 2025 guidelines: survival data](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support/)
+
+A heart attack blocks blood flow to heart muscle; cardiac arrest means the heart is no longer pumping blood effectively around the body. A heart attack can cause cardiac arrest, but they are not interchangeable. [AHA: cardiac arrest versus heart attack](https://cpr.heart.org/en/resources/cardiac-arrest-vs-heart-attack)
+
 **What a minute can mean:** The American Heart Association's 2025 guidelines cite a registry study of witnessed out-of-hospital arrests with an initial rhythm of ventricular fibrillation. Each additional minute to the first shock was associated with a **6% lower probability of survival to hospital discharge**. This is an observed relationship in that group, not six percentage points subtracted from every patient's chances each minute. [AHA 2025 guidelines, section 9.2](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support/)
 
 ### This part is already being tested
