@@ -24,7 +24,7 @@ This collection, curated by **Bradley Shogren**, brings together rescue stories,
 
 I wanted to be a firefighter as a child, served as a volunteer firefighter in the 1990s, and remain connected to preparedness through Frisco CERT. The impulse to help does not disappear when you stop wearing the uniform.
 
-I served for a couple of years with a suburban Minneapolis fire department, responding not only to fires but also to medical, CPR and trauma calls. That experience made the connection between a technical problem and a person needing help very concrete. Through CERT, I still stay connected to preparedness; recently I responded to a CPR alert and arrived to find others already providing care. Sometimes being ready to help matters even when you are not the person who ultimately performs the intervention.
+I served for a couple of years with a suburban Minneapolis fire department, responding not only to fires but also to medical and trauma calls. I gave CPR to dozens of people. That experience made the connection between a technical problem and a person needing help very concrete. Through CERT, I still stay connected to preparedness; recently I responded to a CPR alert and arrived to find others already providing care. Sometimes being ready to help matters even when you are not the person who ultimately performs the intervention.
 
 My interest in science also grew through people. In the early 1990s, I lived in Akademgorodok near Novosibirsk, surrounded by a host family, friends and a community of scientists. I spent additional years in Novosibirsk. Those relationships gave me an appreciation for scientific work and for the people-to-people connections that make cooperation possible.
 
@@ -48,6 +48,6 @@ A loud alarm matters. A precise location adds something different. A safe route,
 - **Ask what works in the field.** Weather, smoke, stairs, weak signals, cost and training are part of the design.
 - **Keep curiosity and evidence together.** These pages distinguish deployed tools, studies and ideas worth testing without treating today's limits as permanent.
 
-This is an independent educational collection, not an emergency-response manual or an endorsement by a school, public agency, interview guest or featured company. It was prepared with AI assistance and linked-source review. See [sources and editorial approach](SOURCES.md).
+This is an independent educational collection, not an emergency-response manual or an endorsement by a school, public agency, interview guest or featured company. See [sources and editorial approach](SOURCES.md).
 
 *Collection updated November 13, 2026. Event dates and examples are dated rather than silently treated as current forever.*
