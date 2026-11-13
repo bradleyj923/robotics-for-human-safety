@@ -8,7 +8,7 @@ Start with the human need. Then ask what the machine, the operator and the rest 
 
 ### Why this is personal for Brad
 
-As a volunteer firefighter in suburban Minneapolis in the 1990s, Brad gave CPR dozens of times, often while waiting for paramedics and their defibrillator. He remembers performing chest compressions or helping provide oxygen during many unsuccessful resuscitation attempts. He does not recall a survivor among the people he personally helped resuscitate. Those memories make the minutes before equipment arrives feel very different from numbers on a chart. They are why the possibility of faster AED delivery matters to him.
+As a volunteer firefighter in suburban Minneapolis in the 1990s, Brad gave CPR to dozens of people, often while waiting for paramedics and their defibrillator. He remembers performing chest compressions and helping provide oxygen during those resuscitation attempts. He does not recall a survivor among the people he personally helped resuscitate. Those memories make the minutes before equipment arrives feel very different from numbers on a chart. They are why the possibility of faster AED delivery matters to him.
 
 **CPR and defibrillation work together.** CPR helps keep blood flowing to the brain and heart. An AED analyzes the rhythm and advises or delivers a shock when appropriate; not every cardiac arrest has a shockable rhythm. Faster access matters, but it complements CPR and emergency medical care rather than replacing them. Follow 911 dispatcher and AED instructions, and do not interrupt CPR to go searching for a device when someone else can retrieve it.
 
