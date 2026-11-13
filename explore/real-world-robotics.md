@@ -3,11 +3,42 @@
 Start with the human need. Then ask what the machine, the operator and the rest of the response system must do together.
 
 ## 1. Bring an AED before the ambulance
-**Evidence: real-world research.** Swedish researchers studied drone delivery of automated external defibrillators during suspected cardiac arrests. The full chain matters: dispatch, flight, handoff and a bystander able to use the device. Faster delivery is useful only if it produces useful action. [Clinical study](https://pubmed.ncbi.nlm.nih.gov/38000871/)
 
-**Ask:** Where is the bottleneck? How would you help a person find, retrieve and use the delivery without disrupting CPR?
+**If a drone can deliver dinner, could it deliver a chance to survive?** Imagine a cardiac arrest three blocks from a school. An automated external defibrillator (AED) is nearby, but inside a building. What if a 911 call could launch a dedicated AED drone while the dispatcher guides CPR and the ambulance is already on its way?
 
-What makes this example powerful is that the aircraft is only one link in a human response. The innovation has to reach the person who can use it, not merely arrive at the correct coordinates. That is a useful lesson for anyone designing a system rather than a gadget.
+### Why this is personal for Brad
+
+As a volunteer firefighter in suburban Minneapolis in the 1990s, Brad often helped with CPR while waiting for paramedics and their defibrillator. He remembers performing chest compressions or helping provide oxygen during many unsuccessful resuscitation attempts. He does not recall a survivor among the people he personally helped resuscitate. Those memories make the minutes before equipment arrives feel very different from numbers on a chart. They are why the possibility of faster AED delivery matters to him.
+
+**CPR and defibrillation work together.** CPR helps keep blood flowing to the brain and heart. An AED analyzes the rhythm and advises or delivers a shock when appropriate; not every cardiac arrest has a shockable rhythm. Faster access matters, but it complements CPR and emergency medical care rather than replacing them. Follow 911 dispatcher and AED instructions, and do not interrupt CPR to go searching for a device when someone else can retrieve it.
+
+**What a minute can mean:** The American Heart Association's 2025 guidelines cite a registry study of witnessed out-of-hospital arrests with an initial rhythm of ventricular fibrillation. Each additional minute to the first shock was associated with a **6% lower probability of survival to hospital discharge**. This is an observed relationship in that group, not six percentage points subtracted from every patient's chances each minute. [AHA 2025 guidelines, section 9.2](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support/)
+
+### This part is already being tested
+
+**Sweden:** In a study published in 2023, drones delivered AEDs before ambulances in 37 of the 55 cases with comparable arrival times, gaining a median 3 minutes and 14 seconds in those earlier deliveries. Bystanders attached the delivered AED before EMS arrival in six confirmed cardiac arrests. The important next step is not merely getting equipment to the address, but getting it into use.
+
+**United States:** Duke Health reported in November 2025 that a clinical trial in Clemmons, North Carolina, was dispatching AED drones during real 911 calls, alongside EMS. A dispatcher coordinates with a drone pilot, the aircraft lowers the AED by winch, and the dispatcher guides a bystander in retrieving and using it. That is remarkably close to Brad's starting question, not a scenario that must wait until 2050.
+
+### The next design challenge: a neighborhood response network
+
+Brad's idea is to think beyond one aircraft: could schools, fire stations, police stations, pharmacies or rural community hubs host a network that brings AEDs to nearby homes and public places? Treat these as possible sites to evaluate, not instructions to remove the only AED a school needs.
+
+- **Place it where minutes matter.** Map travel times, cardiac-arrest locations and communities poorly served by existing response.
+- **Make it ready when the building is closed.** Consider dedicated outdoor equipment, batteries, maintenance and safe delivery in wind, rain and darkness.
+- **Keep the whole response working.** Coordinate dispatch and flight permissions, retain on-site AED coverage, and design a handoff that does not pull the only rescuer away from CPR.
+- **Measure useful help, not impressive flight.** How much sooner are the pads attached? Can a frightened bystander find and use the equipment?
+
+A further question is whether a future mobile robot could assist when no capable bystander is present. That adds harder tasks: reaching the patient, gaining access to the chest, placing pads and supporting safe clinical decisions. The studies linked here use human bystanders, not autonomous robotic treatment. For a young engineer, the invitation is to choose one missing step and ask how it could become safer, simpler or faster.
+
+**Explore the evidence**
+
+- [Swedish AED drone study](https://pubmed.ncbi.nlm.nih.gov/38000871/)
+  - A real-world study linking delivery times to bystander use. Look at the gap between arriving first and actually helping.
+- [Duke's 911 drone trial](https://corporate.dukehealth.org/news/drones-now-deliver-aeds-during-real-911-calls-first-its-kind-us-study)
+  - See how researchers and public-safety teams connect dispatchers, pilots, drones and people on the ground.
+- [American Heart Association: AEDs and CPR](https://www.heart.org/en/news/2023/01/17/5-things-)
+  - Understand why CPR and timely defibrillation belong in the same response, and how an AED guides its user.
 
 ## 2. Put a machine in the risky position
 **Evidence: deployed firefighting equipment.** The Los Angeles Fire Department introduced the remotely operated Thermite RS3 to deliver water while keeping an operator farther from a hazardous position. It demonstrates that useful robotics does not require complete autonomy. [LAFD introduction and visuals](https://lafd.org/news/lafd-debuts-rs3-first-robotic-firefighting-vehicle-united-states)
