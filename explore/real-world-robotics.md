@@ -24,6 +24,8 @@ A heart attack blocks blood flow to heart muscle; cardiac arrest means the heart
 
 **United States:** Duke Health reported in November 2025 that a clinical trial in Clemmons, North Carolina, was dispatching AED drones during real 911 calls, alongside EMS. A dispatcher coordinates with a drone pilot, the aircraft lowers the AED by winch, and the dispatcher guides a bystander in retrieving and using it. That is remarkably close to Brad's starting question, not a scenario that must wait until 2050.
 
+**Your move:** The drone arrived first in 37 of 55 comparable cases, and the AED was attached in six. Much of the remaining gap is human: finding the box, opening it, daring to use it. Design the first sixty seconds after the AED lands for a frightened person who has never seen one.
+
 ### The next design challenge: a neighborhood response network
 
 Brad's idea is to think beyond one aircraft: could schools, fire stations, police stations, pharmacies or rural community hubs host a network that brings AEDs to nearby homes and public places? Treat these as possible sites to evaluate, not instructions to remove the only AED a school needs.
@@ -109,11 +111,15 @@ FANUC's case study of KAD Models describes a prototype shop where people prepare
 
 Here, lights-out primarily means unattended operation for a period, not proof that every bulb is off. A robot following a well-defined path with parts held in known positions may not need to identify every object visually. A vision-guided process may still use carefully controlled lighting. The interesting question is what preparation, sensing and exception handling let the work continue safely.
 
+**Your move:** List everything a person does in that shop during the day that lets the night shift run alone. Then pick the step you think is hardest to automate and say why. Your answer points at work that is still waiting for someone to do it.
+
 ### No room lights does not mean no sensing
 
 An ordinary visible-light camera needs light, which can come from a lamp on the robot rather than the ceiling. Lidar supplies its own laser pulses to measure distance. Radar uses radio waves. Thermal cameras detect infrared radiation rather than requiring visible illumination. Force and contact sensors can add another kind of information: what happens when the machine touches an object. These are complementary tools, not interchangeable superpowers.
 
 SICK's lidar guide explains how returns from particles can differ from returns from solid objects; its radar materials describe detection in rain, fog and dust. Those capabilities invite useful comparisons, but a dark factory is not a burning building. Heat, smoke, water, debris and contaminated sensors change the problem. FLIR's examples show that thermal imaging can reveal scenes obscured by smoke but does not simply look through walls or ordinary window glass. NIST research also found that elevated camera temperature can reduce thermal resolution.
+
+**Your move:** Choose two sensors from this section and design a test that makes them disagree: smoke, steam, a mirror, a hot wall. A robot you would trust in a bad place is one whose designers went looking for that disagreement first.
 
 ### From the supermarket aisle to a hazardous room
 

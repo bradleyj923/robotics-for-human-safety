@@ -59,6 +59,10 @@ The ITU's 2026 discussion of **IMT-2030**, the framework for 6G, includes reliab
 
 Ask what performance a particular task actually requires, then test the entire system. A network label does not by itself establish that a clinical or safety-critical application is ready.
 
+**Your move:** Pick one task you care about, such as steering a robot arm or stopping a moving machine. Work out the longest delay it can tolerate and what must happen when the link drops. If you can state that number and defend it, you are ahead of most product announcements.
+
 ## Look for the transferable idea
 
 A construction layout robot teaches us about translating a model into reality. A space robot teaches us about delayed communication. A medical system teaches us about precise action near vulnerable tissue. A student does not have to master all three fields to notice that the questions overlap.
+
+**Your move:** Take one thing your own team has already solved, such as aiming, gripping or knowing where the robot is on a field. Name two places outside competition where that same problem exists and someone is still struggling with it. That list is the start of a project.

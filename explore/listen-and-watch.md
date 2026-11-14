@@ -54,6 +54,8 @@ EHang describes its **EH216F** as an aerial firefighting platform developed for 
 
 **Watch for the whole system:** reaching an elevated fire is only the beginning. Payload, replenishment, positioning, wind, heat and coordination with crews determine whether the aerial capability is useful. The additional clip was supplied for this collection; that page did not open during review. The official launch video provides a separately verified manufacturer source.
 
+**Your move:** A drone that can reach the thirtieth floor still has to carry enough water or agent to matter. Estimate what a small apartment fire needs, then compare it with what one aircraft can lift. What would you redesign first: the aircraft, the agent, or the way several aircraft take turns?
+
 ## A clip Brad brought to the discussion
 
 Brad shared a friend's link to a post by **@1860rm** as a possible firefighting-drone example. [View the supplied X post](https://x.com/1860rm/status/2118785754344145154)

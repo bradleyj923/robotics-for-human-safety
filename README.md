@@ -17,6 +17,7 @@ This collection, curated by **[Bradley Shogren](https://bradleyshogren.com)**, b
 | **10 minutes** | [Six real-world examples and the next question](explore/real-world-robotics.md) |
 | **A good walk or commute** | [Four conversations with Lex Fridman](explore/listen-and-watch.md) |
 | **An idea you cannot stop thinking about** | [The firefighter-location story](stories/from-pass-to-position.md) |
+| **A field, a herd or a ball to throw** | [Farms and food: crops, dairy and throwing robots](explore/farms-and-food.md) |
 | **A group ready to discuss** | [A better-world design challenge](discuss/questions-and-shared-standards.md) |
 | **Interest in AI and physics** | [Luminary Physics AI DevDay, November 17](events/README.md) |
 
