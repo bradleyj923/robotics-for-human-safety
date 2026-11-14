@@ -7,7 +7,7 @@
 
 A firefighter searching a smoke-filled building. A ranger climbing toward an injured person. A bystander waiting for lifesaving equipment. These are not abstract technology problems. They are moments when time, information and access matter.
 
-This collection, curated by **Bradley Shogren**, brings together rescue stories, engineering examples and conversations with people building the future. It is for curious students, educators, responders, engineers and anyone who wants to turn “What if?” into a better question.
+This collection, curated by **[Bradley Shogren](https://bradleyshogren.com)**, brings together rescue stories, engineering examples and conversations with people building the future. It is for curious students, educators, responders, engineers and anyone who wants to turn “What if?” into a better question.
 
 ## Choose your starting point
 
