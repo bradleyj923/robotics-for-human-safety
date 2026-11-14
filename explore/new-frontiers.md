@@ -24,7 +24,9 @@ What has to happen onboard when instructions cannot arrive instantly? What shoul
 ### Mortenson and autonomous heavy equipment
 **Use on selected renewable-energy projects**
 
-Mortenson describes its partnership with **Built Robotics** to use autonomous heavy equipment on selected renewable-energy projects. The machine does not need to imitate a person. It needs to perform a defined construction task reliably within a larger worksite operation. [Mortenson partnership](https://www.mortenson.com/industries/civil/built-robotics-partnership)
+**Mortenson** is a Minneapolis-based builder that began in 1954 as a small family-owned company and now works across the country on stadiums and arenas, hospitals, data centers, and wind and solar projects. [About Mortenson](https://www.mortenson.com/about)
+
+The company describes its partnership with **Built Robotics** to use autonomous heavy equipment on selected renewable-energy projects. The machine does not need to imitate a person. It needs to perform a defined construction task reliably within a larger worksite operation. [Mortenson partnership](https://www.mortenson.com/industries/civil/built-robotics-partnership)
 
 **Ask:** Which repetitive tasks are suitable for automation? How are work areas controlled, exceptions handled and responsibilities divided between people and machines? A productive machine is only useful if the whole site can work safely around it.
 
