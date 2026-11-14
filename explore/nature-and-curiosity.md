@@ -37,6 +37,20 @@ A **ledger** is a record of what comes in, what goes out and what is owed. Brad 
 
 We can revise a budget, change a deadline or decide not to count a cost. That does not make the physical effect disappear. A rescue robot still needs enough energy to return. A structure still has to carry its load. Waste still goes somewhere. The lesson is not that economics or policy are unimportant. It is that durable solutions have to work in both ledgers.
 
+**Nature does not give second chances.** *Brad's reflection, edited for this collection.*
+
+Nature does not care what you say or think. It only cares what you do.
+
+Picture a hairdryer, plugged in, sliding off a counter into a bathtub. The moment it touches the water, the current does what current does. It makes no difference who is in the tub: a toddler who knows nothing about electricity, an adult who never gave it a thought, or a licensed electrician who understands it perfectly. Knowing the physics might have kept the hairdryer off the counter. It changes nothing once the hairdryer is in the water.
+
+A car crash works the same way. The laws of motion apply to everyone in the car, whether or not they have ever heard of them. They do not check who buckled up, or whether the child seat was installed in a hurry.
+
+I learned this as a firefighter. Before dawn one morning our rescue truck pulled up to two window washers whose scaffolding had given way six floors up. They had not tied themselves in. Nothing we knew how to do could change what had already happened, and neither man survived. Nobody gets to say, wait, let me do that again.
+
+That is the difference between the two ledgers. On the human ledger we give second chances all the time. We extend a deadline, forgive a mistake, reopen a budget, or decide a problem is not ours to pay for. We can argue for years about whether a problem is even real. The physical ledger does none of that. A chemical in drinking water keeps reacting while people debate it. It does not wait for the money to be found or for everyone to agree.
+
+Nature is consistent, and that is what makes engineering possible. The laws that make no exceptions are the same laws a designer can count on. A seat belt, an outlet that cuts the power in a fraction of a second, a tie-off line, a robot that goes into the smoke first: each one is a person deciding ahead of time, because the physical ledger will not let them decide afterward.
+
 **Try it:** For a new robot, draw two columns. In one, put purchase price, maintenance, staffing and time saved. In the other, put battery use, heat, materials, repair needs and end-of-life waste. What benefit looks different when you look at both columns together?
 
 ## Curiosity comes before credentials
