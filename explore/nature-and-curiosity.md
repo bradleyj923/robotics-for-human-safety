@@ -37,7 +37,7 @@ A **ledger** is a record of what comes in, what goes out and what is owed. Brad 
 
 We can revise a budget, change a deadline or decide not to count a cost. That does not make the physical effect disappear. A rescue robot still needs enough energy to return. A structure still has to carry its load. Waste still goes somewhere. The lesson is not that economics or policy are unimportant. It is that durable solutions have to work in both ledgers.
 
-**Nature does not give second chances.** *Brad's reflection, edited for this collection.*
+**Nature does not promise a second chance.** *Brad's reflection, edited for this collection.*
 
 Nature does not care what you say or think. It only cares what you do.
 
@@ -47,7 +47,7 @@ A car crash works the same way. The laws of motion apply to everyone in the car,
 
 I learned this as a firefighter. Before dawn one morning our rescue truck pulled up to two window washers whose scaffolding had given way six floors up. They had not tied themselves in. Nothing we knew how to do could change what had already happened, and neither man survived. Nobody gets to say, wait, let me do that again.
 
-That is the difference between the two ledgers. On the human ledger we give second chances all the time. We extend a deadline, forgive a mistake, reopen a budget, or decide a problem is not ours to pay for. We can argue for years about whether a problem is even real. The physical ledger does none of that. A chemical in drinking water keeps reacting while people debate it. It does not wait for the money to be found or for everyone to agree.
+That is the difference between the two ledgers. On the human ledger we give second chances all the time. We extend a deadline, forgive a mistake, reopen a budget, or decide a problem is not ours to pay for. We can argue for years about whether a problem is even real. The physical ledger makes no such promise. Sometimes a person is lucky and walks away. Nobody can count on that, and luck does not check who is good, rich or famous. A chemical in drinking water keeps reacting while people debate it. It does not wait for the money to be found or for everyone to agree.
 
 Nature is consistent, and that is what makes engineering possible. The laws that make no exceptions are the same laws a designer can count on. A seat belt, an outlet that cuts the power in a fraction of a second, a tie-off line, a robot that goes into the smoke first: each one is a person deciding ahead of time, because the physical ledger will not let them decide afterward.
 
