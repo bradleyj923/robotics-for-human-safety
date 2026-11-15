@@ -43,7 +43,7 @@ PAGES = [
     ("events", "events.html", "Events", "Dates and events connected to this collection."),
     ("sources", "sources.html", "Sources", "Sources and the editorial approach behind every example."),
 ]
-HOME_SECTIONS = ["start", "guide"]
+HOME_SECTIONS = ["start", "guide", "curator"]
 HOME_DESC = ("A field guide for curious students and builders: rescue stories, real engineering "
              "examples and a challenge at the end of each. Curated by Bradley Shogren.")
 
@@ -158,7 +158,7 @@ def main():
     script = ("<script>(function(){var m=%s;function go(){var h=location.hash.slice(1);"
               "if(m[h]){location.replace(m[h]);}}go();window.addEventListener('hashchange',go);})();</script>") % (
         "{" + ",".join('"%s":"%s"' % kv for kv in sorted(redirect.items())) + "}")
-    home_body = note + intro + relink(sections["start"], "index.html") + "".join(hub) + relink(sections["guide"], "index.html")
+    home_body = note + intro + relink(sections["start"], "index.html") + "".join(hub) + relink(sections["guide"], "index.html") + relink(sections["curator"], "index.html")
     home = page("index.html", SITE, HOME_DESC, header, home_body)
     home = home.replace("</body>", script + "</body>")
     write("index.html", home)

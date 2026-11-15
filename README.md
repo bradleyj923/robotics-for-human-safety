@@ -55,6 +55,18 @@ This is an independent educational collection, not an emergency-response manual 
 
 *Collection updated November 13, 2026. Event dates and examples are dated rather than silently treated as current forever.*
 
+## About the curator
+
+Bradley Shogren is not a scientist or an engineer. He has spent his life working where problems cross the usual lines.
+
+- As a volunteer firefighter he gave CPR to dozens of people while waiting for a defibrillator to arrive. Not one of them survived, and that is where this collection began.
+- As a teenager he ran a real video production company, Memorable Moments, from an editing studio in his parents' converted master bedroom.
+- He lived through the Soviet Union's last year with a family in a Siberian science town, then spent years building businesses there, including a supermarket and a 3,200-cow dairy.
+- He spent nearly 17 years at UnitedHealth Group, across Optum and UnitedHealthcare, in strategy, analytics and regulatory affairs.
+- Today he helps leadership teams with strategy, operations and communications, using AI and analytics with a person accountable for the result.
+
+More at [bradleyshogren.com](https://bradleyshogren.com) and on [LinkedIn](https://www.linkedin.com/in/bradleyshogren).
+
 ## How the web pages are built
 
 The site at https://bradleyj923.github.io/robotics-for-human-safety/ has a home page and one page per section. They are generated, so do not edit them by hand.
