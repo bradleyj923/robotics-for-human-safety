@@ -26,6 +26,8 @@ On November 13, 2026, SpaceX launched its fifteenth Starship test flight and tri
 
 Engineers who do this work usually call it autonomous control, not robotics. A SpaceX landing engineer has explained why the vehicle has to decide alone: the path must be recomputed on board in a fraction of a second, and the first attempt has to work. His paper is about earlier landings on legs, not tower catches. [Lars Blackmore: autonomous precision landing of rockets](https://www.nationalacademies.org/read/23659/chapter/10)
 
+**Watch in one minute:** [How do you catch a spaceship?](https://www.youtube.com/shorts/cOuYLwWvufo), a short animated explainer from the independent YouTube channel Visplained. It shows how the tower's arms meet a returning stage, a useful picture to hold while you read the sources above.
+
 **Your move:** The booster's best decision of the day was not to try. How would you design a machine to recognize that it is outside the conditions it can handle, and what should it do then? Where on your own robot is there no way to abort?
 
 ## Surgical robotics: control, distance and trust
