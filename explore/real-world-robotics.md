@@ -131,6 +131,20 @@ Now ask the harder rescue question. Could a robot combine thermal imagery, dista
 
 Build a safe tabletop demonstration, not a fire experiment: change the lighting, rearrange objects and compare what different sensors can still tell you. Which failures can another sensor catch? When should the robot stop and ask for help? Then study how professionals test equipment for actual hazardous environments. The breakthrough is not merely seeing in the dark. It is knowing enough to act usefully, and knowing when you do not.
 
+### Easy for people, hard for machines, and the reverse
+**Deployed equipment, current research and one long-standing observation**
+
+Taping a shipping box shut is awkward for a person and trivial for a machine. A case sealer does it with belts, guides and a taping head, the same motion repeated without tiring. It is automation, though hardly a robot: it senses little and decides nothing. Ask the same warehouse to pack a mixed order into that box and the picture reverses. Amazon says its touch-sensing robot, Vulcan, can handle about three quarters of the item types it meets and asks a person for help when it is stuck. The roboticist Hans Moravec described the pattern in his 1988 book *Mind Children*: the reasoning people find hard is comparatively easy for a computer, and the perception and movement a one-year-old manages without effort is very hard. [Signode: case sealers](https://www.signode.com/products/case-packaging/case-sealers-box-tapers/) · [Amazon: the Vulcan robot](https://aboutamazon.com/news/operations/amazon-vulcan-robot-pick-stow-touch) · [Amazon researchers' preprint on robotic stowing](https://arxiv.org/abs/2505.04572) · [Ken Goldberg: why don't we have better robots yet?](https://www.ted.com/talks/ken_goldberg_why_don_t_we_have_better_robots_yet)
+
+**Your move:** Sort the jobs on your own robot into two lists: the same motion every time, and something different every time. Which list took most of your season? The second list is where most of the unsolved work in robotics still sits.
+
+### The dark factory, as claimed and as visited
+**Company claims and independent reporting**
+
+FANUC says its factories in Japan run long stretches of unmanned machining, with robots helping to build robots. Xiaomi's chief executive has described a phone factory in Beijing where every key process is automated and a phone comes off the line about every three seconds. That account comes from the company, and this collection found no independent visit to the plant. When AFP reporters toured other Chinese factories in 2025, an executive dismissed the phrase "dark factory" as a surface description, and a manager told them, "Many decisions require human judgement." Many dark-factory clips online carry no source at all. [FANUC: its factories](https://fanuc.co.jp/en/profile/production) · [New Atlas: Xiaomi's factory, from company statements](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/) · [AFP: inside China's automating factories](https://www.thejakartapost.com/business/2025/12/14/chinas-smaller-manufacturers-look-to-catch-the-automation-wave)
+
+**Your move:** A company's video and a reporter's visit are different kinds of evidence. For any impressive factory clip, ask who filmed it, who chose what to show, and what a person on site has to do when something jams. Then look for the people in the frame.
+
 ### Watch and explore
 
 - [FANUC: KAD Models lights-out machining, with video](https://www.fanucamerica.com/case-studies/high-mix-low-volume-prototype-shop-achieves-lights-out-manufacturing-with-robotic-automation)

@@ -19,6 +19,15 @@ NASA's **OSIRIS-REx** returned material from asteroid Bennu to Earth on Septembe
 
 What has to happen onboard when instructions cannot arrive instantly? What should be simulated before departure? What information must a machine send back so people can decide the next step?
 
+### A rocket that was caught, and one that chose not to try
+**Test flight**
+
+On November 13, 2026, SpaceX launched its fifteenth Starship test flight and tried to bring both stages back to the two mechanical arms on the launch tower. The upper stage flew 14 orbits and was caught the next day, the first time a vehicle returning from orbit has been caught this way. The booster was not. Its own guidance software judged that it was out of position, called off the attempt without waiting for a person, and steered offshore, where it was lost. The first booster catch came in October 2024. [Spaceflight Now: the launch and the booster's abort](https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/) · [CNBC: the upper-stage catch](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html) · [SpaceX: the first booster catch, 2024](https://www.spacex.com/launches/starship-flight-5)
+
+Engineers who do this work usually call it autonomous control, not robotics. A SpaceX landing engineer has explained why the vehicle has to decide alone: the path must be recomputed on board in a fraction of a second, and the first attempt has to work. His paper is about earlier landings on legs, not tower catches. [Lars Blackmore: autonomous precision landing of rockets](https://www.nationalacademies.org/read/23659/chapter/10)
+
+**Your move:** The booster's best decision of the day was not to try. How would you design a machine to recognize that it is outside the conditions it can handle, and what should it do then? Where on your own robot is there no way to abort?
+
 ## Construction: precision without a humanoid
 
 ### Mortenson and autonomous heavy equipment
