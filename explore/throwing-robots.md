@@ -22,4 +22,6 @@ NASA's guide derives the lift on a spinning ball, the reason backspin changes a 
 
 Toyota's basketball robot made 2,020 consecutive free throws in 2019, and a later version sank a shot from 24.55 metres in 2024. Toyota has not published how. [Toyota: CUE basketball robot](https://global.toyota/en/mobility/frontier-research/41965744.html)
 
+**Timing with company:** A throw is one machine getting one instant right. For many machines holding their timing together, and beside people, watch the synchronized humanoid performance in [Listen and watch](listen-and-watch.md), then ask which is harder to repeat a thousand times.
+
 **Your move:** A team that can put a ball through a hoop from across a gym has solved release speed, angle, spin and repeatability under changing conditions. Name three places where someone needs exactly that: a line to a person in the water, a part across a gap, seed onto a slope. Then ask what each one needs that a basketball court never asked of you.

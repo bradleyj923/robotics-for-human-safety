@@ -46,6 +46,8 @@ Thank you to Lex Fridman for making room for these long, thoughtful conversation
 
 Unitree's own history describes its **WuBot** performance at the February 16, 2026 Spring Festival Gala, involving G1 and H2 humanoid robots. Its [official site](https://www.unitree.com/) and [company timeline](https://www.unitree.com/mobile/about/) provide a starting point for the performance and robot demonstrations.
 
+**Watch the performance:** [WuBOT at the 2026 Spring Festival Gala](https://www.youtube.com/watch?v=dk8vx7F-ty4), posted by CGTN Español, a channel of the broadcaster that staged the gala. The caption is in Spanish; the performance needs no translation. The broadcaster credits it to Unitree Robotics of Hangzhou and the Tagou Martial Arts School of Henan: robots and young martial artists moving through the same routine, in time with each other.
+
 Watch with two questions in mind: **What must be synchronized to make this work? What would change if the floor, lighting or task were unpredictable?** A choreographed performance is an invitation to study control and coordination, not a substitute for testing a robot in a rescue environment.
 
 ## Firefighting from the air: a manufacturer example
