@@ -75,6 +75,8 @@ def write(path, text):
 
 def main():
     src = read("src/guide.html")
+    import datetime
+    src = src.replace("{{UPDATED}}", datetime.date.today().strftime("%B %Y"))
     head_end = src.index("</head>")
     style = re.search(r"(?s)<style>(.*?)</style>", src[:head_end]).group(1)
     header = re.search(r"(?s)<header id=\"top\">.*?</header>", src).group(0)
