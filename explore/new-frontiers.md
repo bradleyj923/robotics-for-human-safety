@@ -1,5 +1,5 @@
 # Different environments. The same engineering questions.
-### Space, construction and connected care
+### Space and connected care
 
 A construction robot and a robot approaching an icy crevasse seem worlds apart. Both need to understand where they are, cope with an imperfect environment and do something useful without causing harm. Looking across fields can reveal a solution already taking shape somewhere else.
 
@@ -27,24 +27,6 @@ On November 13, 2026, SpaceX launched its fifteenth Starship test flight and tri
 Engineers who do this work usually call it autonomous control, not robotics. A SpaceX landing engineer has explained why the vehicle has to decide alone: the path must be recomputed on board in a fraction of a second, and the first attempt has to work. His paper is about earlier landings on legs, not tower catches. [Lars Blackmore: autonomous precision landing of rockets](https://www.nationalacademies.org/read/23659/chapter/10)
 
 **Your move:** The booster's best decision of the day was not to try. How would you design a machine to recognize that it is outside the conditions it can handle, and what should it do then? Where on your own robot is there no way to abort?
-
-## Construction: precision without a humanoid
-
-### Mortenson and autonomous heavy equipment
-**Use on selected renewable-energy projects**
-
-**Mortenson** is a Minneapolis-based builder that began in 1954 as a small family-owned company and now works across the country on stadiums and arenas, hospitals, data centers, and wind and solar projects. [About Mortenson](https://www.mortenson.com/about)
-
-The company describes its partnership with **Built Robotics** to use autonomous heavy equipment on selected renewable-energy projects. The machine does not need to imitate a person. It needs to perform a defined construction task reliably within a larger worksite operation. [Mortenson partnership](https://www.mortenson.com/industries/civil/built-robotics-partnership)
-
-**Ask:** Which repetitive tasks are suitable for automation? How are work areas controlled, exceptions handled and responsibilities divided between people and machines? A productive machine is only useful if the whole site can work safely around it.
-
-### Turning a model into marks on a floor
-**Supplier-documented construction use**
-
-Dusty Robotics describes Mortenson using robotic layout on two data-center projects. The task translates digital building information into physical layout that different trades can use. This is a bridge between software and the built world, rather than a robot that builds a building by itself. [Dusty: Mortenson case study](https://www.dustyrobotics.com/customers/mortenson)
-
-**Try:** Draw a room plan, then ask how a robot would establish its position and transfer that plan onto the real floor. What happens when the floor is obstructed or the digital plan changes? The most valuable innovation may be reducing rework and coordination mistakes.
 
 ## Surgical robotics: control, distance and trust
 

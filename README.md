@@ -14,9 +14,10 @@ This collection, curated by **[Bradley Shogren](https://bradleyshogren.com)**, b
 | If you have… | Start here |
 |---|---|
 | **2 minutes** | [Visual conversation guide](downloads/robotics-real-world-safety-conversation-guide.pdf) |
-| **10 minutes** | [Six real-world examples and the next question](explore/real-world-robotics.md) |
+| **10 minutes** | [Five real-world examples and the next question](explore/real-world-robotics.md) |
 | **A good walk or commute** | [Four conversations with Lex Fridman](explore/listen-and-watch.md) |
 | **An idea you cannot stop thinking about** | [The firefighter-location story](stories/from-pass-to-position.md) |
+| **An interest in factories or building sites** | [Factories and construction: lights-out production and autonomous equipment](explore/factories-and-construction.md) |
 | **A field or a herd to look after** | [Farms and food: crops, field robots and dairy](explore/farms-and-food.md) |
 | **A robot that has to hit a target** | [A ball in the air: why throwing is a serious problem](explore/throwing-robots.md) |
 | **A group ready to discuss** | [A better-world design challenge](discuss/questions-and-shared-standards.md) |

@@ -23,11 +23,13 @@ PAGES = [
     ("story", "why-it-matters.html", "Why it matters",
      "The personal story behind this collection and the question that started it."),
     ("rescue", "rescue-and-response.html", "Rescue & response",
-     "Drone-delivered defibrillators, firefighting robots, indoor mapping, hazard sensing and lights-out factories, with what is deployed and what is still research."),
+     "Drone-delivered defibrillators, firefighting robots, indoor mapping and hazard sensing, with what is deployed and what is still research."),
     ("care", "health-and-daily-life.html", "Health & daily life",
      "Exoskeletons, walking assistance, and robots for independence and companionship, with the questions of consent they raise."),
-    ("frontiers", "space-and-industry.html", "Space & industry",
-     "Space robots, a rocket caught by its launch tower, autonomous construction equipment, robotic surgery and next-generation networks."),
+    ("frontiers", "space-and-surgery.html", "Space & surgery",
+     "Space robots, a rocket caught by its launch tower, robotic surgery at a distance and next-generation networks."),
+    ("industry", "factories-and-construction.html", "Factories & construction",
+     "Lights-out factories, what a machine can sense in the dark, what is easy and hard to automate, and autonomous equipment on building sites."),
     ("farm", "farms-and-food.html", "Farms & food",
      "Reading crop stress from a camera, robots already working in fields, dairy sensing and the hidden danger of manure storage."),
     ("throw", "throwing-robots.html", "Throwing robots",
@@ -57,6 +59,7 @@ EXTRA_CSS = (
     "nav a[aria-current=page]{text-decoration:underline;text-underline-offset:5px}"
     "header .eyebrow a{color:inherit;text-decoration:none;font-size:inherit;display:inline}"
     "header.sub{padding-top:30px;padding-bottom:26px}"
+    "body{font-size:18px}@media(max-width:600px){body{font-size:18px;line-height:1.7}}"
 )
 
 
