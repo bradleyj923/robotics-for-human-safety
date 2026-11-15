@@ -53,3 +53,13 @@ A loud alarm matters. A precise location adds something different. A safe route,
 This is an independent educational collection, not an emergency-response manual or an endorsement by a school, public agency, interview guest or featured company. See [sources and editorial approach](SOURCES.md).
 
 *Collection updated November 13, 2026. Event dates and examples are dated rather than silently treated as current forever.*
+
+## How the web pages are built
+
+The site at https://bradleyj923.github.io/robotics-for-human-safety/ has a home page and one page per section. They are generated, so do not edit them by hand.
+
+- Edit `src/guide.html`, which holds the whole guide as one file, and the matching text file under `explore/`, `stories/` or `discuss/`.
+- Run `python tools/build_pages.py`. It writes `index.html`, the section pages and `sitemap.xml`, and it stops if a section has no page assigned or a link points nowhere.
+- Commit the source and the generated pages together.
+
+Old links to a section of the former single page, such as `#farm`, forward to the new page.
