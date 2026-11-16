@@ -50,6 +50,10 @@ Unitree's own history describes its **WuBot** performance at the February 16, 20
 
 Watch with two questions in mind: **What must be synchronized to make this work? What would change if the floor, lighting or task were unpredictable?** A choreographed performance is an invitation to study control and coordination, not a substitute for testing a robot in a rescue environment.
 
+**One hundred and ten at once:** On October 24, 2026, in Jinan, China, the robot maker AgiBot put 110 full-size humanoid robots through one dance routine of nearly six minutes, with a Guinness World Records judge present. The company says the robots were standard production units, kept in formation by radio positioning that tells each one where it stands on the floor. [Watch: 110 humanoid robots set a dance record](https://www.youtube.com/watch?v=DlSX7TIIApY), from New China TV, the video channel of China's state news agency Xinhua. [Interesting Engineering: report on the record](https://interestingengineering.com/ai-robotics/110-humanoid-robot-guinness-world-record-dance)
+
+**Your move:** Count carefully before you are impressed. In 2018 a record in Rome had 1,372 robots dancing at once, but those stood about knee high. What changes when each robot is the size of a person and has to balance on two legs? If one of the 110 falls, what should the 109 around it do?
+
 ## Firefighting from the air: a manufacturer example
 
 EHang describes its **EH216F** as an aerial firefighting platform developed for high-rise scenarios. Its official product and launch materials make this a concrete example to study, rather than an imagined future use of drones. [EHang firefighting platform](https://www.ehang.com/ehang216f/) · [Official launch video](https://www.ehang.com/video/show/349.html) · [Additional EHang clip](https://www.ehang.com/video/show/653.html)
