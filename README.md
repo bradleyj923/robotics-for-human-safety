@@ -15,13 +15,24 @@ This collection, curated by **[Bradley Shogren](https://bradleyshogren.com)**, b
 |---|---|
 | **2 minutes** | [Visual conversation guide](downloads/robotics-real-world-safety-conversation-guide.pdf) |
 | **10 minutes** | [Five real-world examples and the next question](explore/real-world-robotics.md) |
-| **A good walk or commute** | [Four conversations with Lex Fridman](explore/listen-and-watch.md) |
+| **A good walk or commute** | [Six conversations with Lex Fridman](explore/listen-and-watch.md) |
 | **An idea you cannot stop thinking about** | [The firefighter-location story](stories/from-pass-to-position.md) |
 | **An interest in factories or building sites** | [Factories and construction: lights-out production and autonomous equipment](explore/factories-and-construction.md) |
 | **A field or a herd to look after** | [Farms and food: crops, field robots and dairy](explore/farms-and-food.md) |
 | **A robot that has to hit a target** | [A ball in the air: why throwing is a serious problem](explore/throwing-robots.md) |
 | **A group ready to discuss** | [A better-world design challenge](discuss/questions-and-shared-standards.md) |
 | **Interest in AI and physics** | [Luminary Physics AI DevDay, November 17](events/README.md) |
+
+## Explore the visual guide's sources
+
+- [NIST ResponseWing: indoor mapping for responders](https://www.nist.gov/blogs/taking-measure/drones-disaster-zones-how-advanced-3d-mapping-technology-can-help-first)
+  See how a map can help crews understand an unfamiliar building before entering.
+- [Karolinska Institutet: drone-delivered defibrillators before ambulance arrival](https://news.ki.se/drones-enabled-the-use-of-defibrillators-before-ambulance-arrival)
+  Explore real-world research connecting drone delivery with bystander use of an AED.
+- [LAFD: Thermite RS3 robotic firefighting vehicle](https://lafd.org/news/lafd-debuts-rs3-first-robotic-firefighting-vehicle-united-states)
+  See how remote operation can put firefighting equipment in a hazardous position while keeping its operator farther away.
+- [NIST: emergency response robot performance](https://www.nist.gov/programs-projects/performance-emergency-response-robots)
+  Learn how responder robots are tested against the tasks they need to perform.
 
 ## Why I care
 
@@ -73,7 +84,9 @@ The site at https://bradleyj923.github.io/robotics-for-human-safety/ has a home 
 
 - Edit `src/guide.html`, which holds the whole guide as one file, and the matching text file under `explore/`, `stories/` or `discuss/`.
 - Run `python tools/build_pages.py`.
-- The "Updated" month in the byline is filled in automatically when the pages are built. The "Sources checked" month in the footer is changed by hand, only after the sources are rechecked. It writes `index.html`, the section pages and `sitemap.xml`, and it stops if a section has no page assigned or a link points nowhere.
+- The "Updated" month in the byline comes from the committed editorial date in `src/site-date.txt`, not the build clock. Change that date when publishing a substantive content update. The "Sources checked" month in the footer is changed by hand, only after the sources are rechecked. It writes `index.html`, the section pages and `sitemap.xml`, and it stops if a section has no page assigned or a link points nowhere.
 - Commit the source and the generated pages together.
 
 Old links to a section of the former single page, such as `#farm`, forward to the new page.
+
+See [Contributing](CONTRIBUTING.md) for the paired-edit map and local checks.

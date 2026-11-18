@@ -9,6 +9,7 @@ The generated pages are committed so GitHub Pages can serve them. Do not edit
 them by hand: change src/guide.html (and the matching text file under
 explore/, stories/ or discuss/), then run this script again.
 """
+import datetime
 import html
 import io
 import os
@@ -75,8 +76,12 @@ def write(path, text):
 
 def main():
     src = read("src/guide.html")
-    import datetime
-    src = src.replace("{{UPDATED}}", datetime.date.today().strftime("%B %Y"))
+    # Editorial date, not build time: a rebuild must not imply a new review.
+    date_text = os.environ.get("SITE_DATE", read("src/site-date.txt").strip())
+    updated = datetime.date.fromisoformat(date_text)
+    months = ("January February March April May June July August September "
+              "October November December").split()
+    src = src.replace("{{UPDATED}}", f"{months[updated.month - 1]} {updated.year}")
     head_end = src.index("</head>")
     style = re.search(r"(?s)<style>(.*?)</style>", src[:head_end]).group(1)
     header = re.search(r"(?s)<header id=\"top\">.*?</header>", src).group(0)
