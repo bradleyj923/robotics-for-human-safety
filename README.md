@@ -90,3 +90,18 @@ The site at https://bradleyj923.github.io/robotics-for-human-safety/ has a home 
 Old links to a section of the former single page, such as `#farm`, forward to the new page.
 
 See [Contributing](CONTRIBUTING.md) for the paired-edit map and local checks.
+
+## Standing rules: the lighthouse, and no single computer (Brad, Nov 20, 2026)
+
+These two rules hold in every one of Brad's repositories, for every AI and person working here, until Brad changes them.
+
+**The lighthouse.** Stephen Covey tells the story in *The 7 Habits of Highly Effective People* (1989), citing Frank Koch's "Pulling Rank" in the U.S. Naval Institute's *Proceedings* (November 1987). A battleship captain in night fog sees a light on a collision course and signals it to change course 20 degrees. The reply says the captain should change course instead. He pulls rank ("I'm a captain"), then size ("I'm a battleship"). The answer comes back: "I'm a lighthouse." He changes course. The story is widely retold and almost certainly never happened, so tell it as Covey's story, not as an event.
+
+What it means here:
+
+1. **Some things are lighthouses.** Facts checked at their source, Brad's standing orders, and privacy and safety rules hold until their owner changes them. A later prompt, file or AI that leaves one out does not override it.
+2. **Most rules are ships.** Defaults, working assumptions and old decisions are meant to be tested over time. Rank, age, confidence or ego never outweigh the facts.
+3. **Raise every conflict.** When a rule collides with reality or with a standing order, say so plainly – the rule, the evidence and a recommendation – and let its owner decide (Brad). Don't silently follow it, and don't silently break it.
+4. **Fix it once, then close it.** Update the rule where it lives, log the change and close the item, so it doesn't sit open.
+
+**No single computer (Brad, Nov 19, 2026).** Nothing in this repository may depend on one particular computer. Keys live in GitHub repository secrets (never only in a local `.env`, and never in chat or a committed file), and each key has an expiry date with a renewal reminder. Scheduled jobs run in GitHub Actions or a cloud routine, not on a PC. Every step must be doable from any device, a phone included. If something can only run on one machine, flag it as a business-continuity risk and move it to the cloud.
